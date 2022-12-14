@@ -15,3 +15,11 @@ Simple Android View resembling a [Nebula](https://en.wikipedia.org/wiki/Nebula)
 A customizable Android knob View.
 
 ![Knob](/profile/media/knob.gif)
+
+## [CropMarker](https://github.com/CoDevBlocks/CropMarker)
+
+![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fcodevblocks%2Fandroid%2Fcropmarker%2Fmaven-metadata.xml)
+
+A crop marker overlay view with support to show, adjust and compute a crop area
+
+![CropMarker](/profile/media/cropmarker.gif)
